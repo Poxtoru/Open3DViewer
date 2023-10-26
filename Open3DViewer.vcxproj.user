@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <QtLastBackgroundBuild>2023-10-08T02:47:11.6968174Z</QtLastBackgroundBuild>
+  </PropertyGroup>
+  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <QtLastBackgroundBuild>2023-10-07T06:30:15.8794223Z</QtLastBackgroundBuild>
+  </PropertyGroup>
+</Project>
